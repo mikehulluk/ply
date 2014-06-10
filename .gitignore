@@ -1,0 +1,10 @@
+/parser.out
+/parsetab.pyc
+/ply/__init__.pyc
+/ply/lex.pyc
+/ply/syntax/__init__.pyc
+/ply/syntax/mbnf.pyc
+/ply/yacc.pyc
+/tmp.out
+/parsetab.py
+/to_bnf.log

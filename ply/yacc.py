@@ -977,6 +977,9 @@ class LRParser:
                     lookahead = YaccSymbol()
                     lookahead.type = '$end'
 
+            #MH ADDED:
+            #print 'At token:', lookahead
+
             # Check the action table
             ltype = lookahead.type
             t = actions[state].get(ltype)
